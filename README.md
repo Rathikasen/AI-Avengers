@@ -110,9 +110,9 @@ To use the project, you can follow the examples below:
     python main.py --feature
     ```
 
-##Figma Link of the Prototype:
-  https://www.figma.com/proto/yIPBGPUdlKjEDgRDTSbQXL/Emergency-Vehicle-App?node-id=44-63&t=9gr0e8wTj5Bxisdg-1
+## Figma Link of the Prototype:
+    https://www.figma.com/proto/yIPBGPUdlKjEDgRDTSbQXL/Emergency-Vehicle-App?node-id=44-63&t=9gr0e8wTj5Bxisdg-1
   
-##Figma Link of the Design:
+## Figma Link of the Design:
     https://www.figma.com/design/yIPBGPUdlKjEDgRDTSbQXL/Emergency-Vehicle-App?node-id=0-1&node-type=canvas&t=2rBoMFqcDyklzSkp-0
     
