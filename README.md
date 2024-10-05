@@ -115,4 +115,11 @@ To use the project, you can follow the examples below:
   
 ## Figma Link of the Design:
     https://www.figma.com/design/yIPBGPUdlKjEDgRDTSbQXL/Emergency-Vehicle-App?node-id=0-1&node-type=canvas&t=2rBoMFqcDyklzSkp-0
-    
+
+![image](https://github.com/user-attachments/assets/5fcfe992-7712-4b34-b1bf-70a2d3330812)
+![image](https://github.com/user-attachments/assets/530625cd-c897-472b-8f97-3a09cb84b3f2)
+![image](https://github.com/user-attachments/assets/8d66926c-d65d-4df7-8427-f1e4266e24d9)
+![image](https://github.com/user-attachments/assets/5eae8514-1b87-408e-bb89-8fc76bf6d9b0)
+![image](https://github.com/user-attachments/assets/ca129112-36b1-41e7-8db1-8427aadee5be)
+![image](https://github.com/user-attachments/assets/cbe8df02-3455-4d95-9d83-ade892c31692)
+![image](https://github.com/user-attachments/assets/9013777e-22cf-4c8f-87dc-4a8faf5ac389)
